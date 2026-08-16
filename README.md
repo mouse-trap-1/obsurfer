@@ -2,7 +2,7 @@
 
 obsurfer is a web client for interacting with a DAO/token platform on the Sepolia Ethereum test network. It allows users to trade NFTs as part of a DAO, sharing a stake in the DAOs trades and allowing users to vote on trades that can either permit or deny a trade to happen.
 
-This guide covers how to get around the app. It's based on the app's shell and routing logic; the exact fields and options inside each individual screen aren't covered here.
+[LINK](https://focused-explore-induction-guardian.trycloudflare.com/)
 
 ## Signing in
 
