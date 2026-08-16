@@ -4,6 +4,8 @@ obsurfer is a web client for interacting with a DAO/token platform on the Sepoli
 
 [LINK](https://travels-coalition-live-regarded.trycloudflare.com)
 
+[Discord LINK](https://discord.gg/MMc4a4EGD)
+
 ## Signing in
 
 When you open the app, what you see depends on your session state:
